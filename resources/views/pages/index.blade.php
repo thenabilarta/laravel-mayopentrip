@@ -73,7 +73,8 @@
       <div class="card-body">
         <h4 class="card-title"><img src="https://img.icons8.com/ultraviolet/40/000000/quote-left.png"></h4>
         <div class="template-demo">
-          <p>bu may sebagai tpur leader sangat kopperatif selalu bertanya ke peserta kita mau nya bagaimana dan
+          <p>Perjalanan sama bu may luar biada seruuuu.. hotel enak,tempat wisata bagus2 dan yg pasti tempat belanja nya
+            murce2.. bu may sebagai tpur leader sangat kopperatif selalu bertanya ke peserta kita mau nya bagaimana dan
             seperti apa tidak memaksakan kehendak.. dan soo pasti harga nya sangat murcee.. bisa dibandingkan dengan
             tour2 yg lain.. ahhhh ayooo kita jalan2 lagi bu.. tak sabar menanti trip2 ibu selanjutnya😘😘😘😘😘</p>
         </div>
@@ -196,8 +197,8 @@
         <h4 class="card-title"><img src="https://img.icons8.com/ultraviolet/40/000000/quote-left.png"></h4>
         <div class="template-demo">
           <p>Selama perjalanan tour bersama uni, sangat menyenangkan, kekeluargaan, mengikuti keingginan, mendengarkan
-            dan masukan dr peserta tour , semua perjalanan menjadi berkesan dan uni sangat perhatian.Semoga uni sll
-            sehat dan sll bs memandu
+            dan masukan dr peserta tour , semua perjalanan menjadi berkesan dan uni sangat perhatian jika ada yg sakit
+            dan berbagi makanan uni juga sukai becanda, aku suka ikut tour uni, semoga uni sll sehat dan sll bs memandu
             kami tour keliling dunia Aamiin YRA love you uni may😘😘😘</p>
         </div>
         <hr>
@@ -256,9 +257,10 @@
       <div class="card-body">
         <h4 class="card-title"><img src="https://img.icons8.com/ultraviolet/40/000000/quote-left.png"></h4>
         <div class="template-demo">
-          <p>Sdh 3x ikut mayopentrip.. So far semua berending happy..destinasi yg dipilih agak extraordinary..kluar dari
-            pakem umum yg biasa mementingkan efisiensi jarak dan waktu. Justru itu yg bikin keinginan kita terakomodasi.
-            Maju trs mayopentrip..insya Allah 2021 daftar lg...</p>
+          <p>Sdh 3x ikut mayopentrip..ke london-edinburgh-scandinavia, aussie-NZ dan moscow-st petersburg-kazan. So far
+            semua berending happy..destinasi yg dipilih agak extraordinary..kluar dari pakem umum yg biasa mementingkan
+            efisiensi jarak dan waktu. Justru itu yg bikin keinginan kita terakomodasi. Maju trs mayopentrip..insya
+            Allah 2021 daftar lg...</p>
         </div>
         <hr>
         <div class="row">
