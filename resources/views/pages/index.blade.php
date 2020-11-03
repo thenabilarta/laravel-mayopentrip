@@ -8,7 +8,7 @@
 </div>
 
 <div class="container py-3">
-  <div class="row">
+  <div class="row" style="width: 80%; margin: 0 auto">
     <div class="col d-flex align-items-center flex-wrap justify-content-center p-3">
       <div class="card" style="width: 18rem;">
         <img class="card-img-top" src="img/destination/inggris.jpg" alt="Card image cap">
