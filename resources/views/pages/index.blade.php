@@ -9,7 +9,7 @@
 
 <div class="container py-3">
   <div class="row">
-    <div class="col d-flex align-items-center justify-content-center p-3">
+    <div class="col d-flex align-items-center flex-wrap justify-content-center p-3">
       <div class="card" style="width: 18rem;">
         <img class="card-img-top" src="img/destination/inggris.jpg" alt="Card image cap">
         <div class="card-body">
@@ -79,9 +79,9 @@
         </div>
         <hr>
         <div class="row">
-          <div class="col-sm-2"> <img class="profile-pic" src="img/testimonial/ivo.png">
+          <div class="col-2"> <img class="profile-pic" src="img/testimonial/ivo.png">
           </div>
-          <div class="col-sm-10">
+          <div class="col-10">
             <div class="profile">
               <h4 class="cust-name">Dr ivo fitrian SpOG</h4>
               <p class="cust-profession">Dokter</p>
@@ -99,9 +99,9 @@
         </div>
         <hr>
         <div class="row">
-          <div class="col-sm-2"> <img class="profile-pic" src="img/testimonial/dumasari.png">
+          <div class="col-2"> <img class="profile-pic" src="img/testimonial/dumasari.png">
           </div>
-          <div class="col-sm-10">
+          <div class="col-10">
             <div class="profile">
               <h4 class="cust-name">Dumasari</h4>
               <p class="cust-profession">Pegawai BUMN</p>
@@ -120,9 +120,9 @@
         </div>
         <hr>
         <div class="row">
-          <div class="col-sm-2"> <img class="profile-pic" src="img/testimonial/ajenk.png">
+          <div class="col-2"><img class="profile-pic" src="img/testimonial/ajenk.png">
           </div>
-          <div class="col-sm-10">
+          <div class="col-10">
             <div class="profile">
               <h4 class="cust-name">Ajenk</h4>
               <p class="cust-profession">Karyawati</p>
@@ -139,9 +139,9 @@
         </div>
         <hr>
         <div class="row">
-          <div class="col-sm-2"> <img class="profile-pic" src="img/testimonial/asrie.png">
+          <div class="col-2"> <img class="profile-pic" src="img/testimonial/asrie.png">
           </div>
-          <div class="col-sm-10">
+          <div class="col-10">
             <div class="profile">
               <h4 class="cust-name">Asrie</h4>
               <p class="cust-profession">Traveler</p>
@@ -159,9 +159,9 @@
         </div>
         <hr>
         <div class="row">
-          <div class="col-sm-2"> <img class="profile-pic" src="img/testimonial/dewi.png">
+          <div class="col-2"> <img class="profile-pic" src="img/testimonial/dewi.png">
           </div>
-          <div class="col-sm-10">
+          <div class="col-10">
             <div class="profile">
               <h4 class="cust-name">Dewi</h4>
               <p class="cust-profession">Ibu rumah tangga</p>
@@ -180,9 +180,9 @@
         </div>
         <hr>
         <div class="row">
-          <div class="col-sm-2"> <img class="profile-pic" src="img/testimonial/endang.png">
+          <div class="col-2"> <img class="profile-pic" src="img/testimonial/endang.png">
           </div>
-          <div class="col-sm-10">
+          <div class="col-10">
             <div class="profile">
               <h4 class="cust-name">Endang</h4>
               <p class="cust-profession">Pengusaha</p>
@@ -202,9 +202,9 @@
         </div>
         <hr>
         <div class="row">
-          <div class="col-sm-2"> <img class="profile-pic" src="img/testimonial/ida.png">
+          <div class="col-2"> <img class="profile-pic" src="img/testimonial/ida.png">
           </div>
-          <div class="col-sm-10">
+          <div class="col-10">
             <div class="profile">
               <h4 class="cust-name">Ida Farida</h4>
               <p class="cust-profession">Notaris</p>
@@ -222,9 +222,9 @@
         </div>
         <hr>
         <div class="row">
-          <div class="col-sm-2"> <img class="profile-pic" src="img/testimonial/irma.png">
+          <div class="col-2"> <img class="profile-pic" src="img/testimonial/irma.png">
           </div>
-          <div class="col-sm-10">
+          <div class="col-10">
             <div class="profile">
               <h4 class="cust-name">Irma</h4>
               <p class="cust-profession">Ibu rumah tangga</p>
@@ -241,9 +241,9 @@
         </div>
         <hr>
         <div class="row">
-          <div class="col-sm-2"> <img class="profile-pic" src="img/testimonial/liza.png">
+          <div class="col-2"> <img class="profile-pic" src="img/testimonial/liza.png">
           </div>
-          <div class="col-sm-10">
+          <div class="col-10">
             <div class="profile">
               <h4 class="cust-name">Liza Irvan</h4>
               <p class="cust-profession">Traveler</p>
@@ -262,11 +262,11 @@
         </div>
         <hr>
         <div class="row">
-          <div class="col-sm-2"> <img class="profile-pic" src="img/testimonial/marwati.png">
+          <div class="col-2"> <img class="profile-pic" src="img/testimonial/marwati.png">
           </div>
-          <div class="col-sm-10">
+          <div class="col-10">
             <div class="profile">
-              <h4 class="cust-name">Marwati Widyamartana</h4>
+              <h4 class="cust-name">Marwati W</h4>
               <p class="cust-profession">Traveler</p>
             </div>
           </div>
@@ -282,9 +282,9 @@
         </div>
         <hr>
         <div class="row">
-          <div class="col-sm-2"> <img class="profile-pic" src="img/testimonial/maryani.png">
+          <div class="col-2"> <img class="profile-pic" src="img/testimonial/maryani.png">
           </div>
-          <div class="col-sm-10">
+          <div class="col-10">
             <div class="profile">
               <h4 class="cust-name">Maryani Mas'ud</h4>
               <p class="cust-profession">Dokter</p>
@@ -302,9 +302,9 @@
         </div>
         <hr>
         <div class="row">
-          <div class="col-sm-2"> <img class="profile-pic" src="img/testimonial/putiri.png">
+          <div class="col-2"> <img class="profile-pic" src="img/testimonial/putiri.png">
           </div>
-          <div class="col-sm-10">
+          <div class="col-10">
             <div class="profile">
               <h4 class="cust-name">Putiri Katili</h4>
               <p class="cust-profession">Traveler</p>
@@ -322,9 +322,9 @@
         </div>
         <hr>
         <div class="row">
-          <div class="col-sm-2"> <img class="profile-pic" src="img/testimonial/sidiq.png">
+          <div class="col-2"> <img class="profile-pic" src="img/testimonial/sidiq.png">
           </div>
-          <div class="col-sm-10">
+          <div class="col-10">
             <div class="profile">
               <h4 class="cust-name">Sidiq Gandi</h4>
               <p class="cust-profession">ASN</p>
@@ -341,9 +341,9 @@
         </div>
         <hr>
         <div class="row">
-          <div class="col-sm-2"> <img class="profile-pic" src="img/testimonial/tetri.png">
+          <div class="col-2"> <img class="profile-pic" src="img/testimonial/tetri.png">
           </div>
-          <div class="col-sm-10">
+          <div class="col-10">
             <div class="profile">
               <h4 class="cust-name">Tettri Vivi</h4>
               <p class="cust-profession">Notaris</p>
@@ -360,9 +360,9 @@
         </div>
         <hr>
         <div class="row">
-          <div class="col-sm-2"> <img class="profile-pic" src="img/testimonial/yani.png">
+          <div class="col-2"> <img class="profile-pic" src="img/testimonial/yani.png">
           </div>
-          <div class="col-sm-10">
+          <div class="col-10">
             <div class="profile">
               <h4 class="cust-name">Yani</h4>
               <p class="cust-profession">Traveler</p>
@@ -379,9 +379,9 @@
         </div>
         <hr>
         <div class="row">
-          <div class="col-sm-2"> <img class="profile-pic" src="img/testimonial/orang.png">
+          <div class="col-2"> <img class="profile-pic" src="img/testimonial/orang.png">
           </div>
-          <div class="col-sm-10">
+          <div class="col-10">
             <div class="profile">
               <h4 class="cust-name">Kamu</h4>
               <p class="cust-profession">Traveler</p>

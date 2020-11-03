@@ -81,13 +81,12 @@ h4 {
 }
 
 .profile {
-  margin-top: 16px;
+  margin-top: 8px;
   margin-left: 11px;
 }
 
 .profile-pic {
-  width: 58px;
-  padding: 5px;
+  width: 40px;
 }
 
 .cust-name {
@@ -109,4 +108,9 @@ h4 {
 
 ul.slick-dots {
   display: none !important;
+}
+
+.template-demo p {
+  height: 6rem !important;
+  overflow-y: scroll !important;
 }
